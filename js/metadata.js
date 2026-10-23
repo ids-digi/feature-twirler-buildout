@@ -1,13 +1,34 @@
 const data = {
     "url": "your-url-here",
-    "slug": "Feature Twirler",
+    "slug": "IU's Feature Twirler",
     "headline": "Behind the baton: The making of IU’s Feature Twirler",
     "title": "Behind the baton: The making of IU’s Feature Twirler",
     "pub_date": "TBD",
     "bylines": {
         "By": {
-            "name": "Ursula Stickelmaier"
+            "name": "Ursula Stickelmaier",
+            "email": "ustickel@iu.edu",
+            "twitter": "",
+            "pfp": ""
+        },
+        
+        "Photos by": [
+            {
+                "name": "Ursula Stickelmaier",
+                "email": "",
+                "twitter": ""
+            },
+            {
+                "name": "Trinity Mackenzie"
+            }
+        ],
+
+        "Design and development by": {
+            "name": "Owen Hamer",
+            "email": "ohamer@iu.edu",
+            "bio": "Owen has worked at the IDS since 2026 as a designer."
         }
+        
     }
 };
 
