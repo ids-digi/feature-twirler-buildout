@@ -1,5 +1,5 @@
 const data = {
-    "url": "your-url-here",
+    "url": "behind-the-baton-iu-feature-twirler",
     "slug": "IU's Feature Twirler",
     "headline": "Behind the baton: The making of IU’s Feature Twirler",
     "title": "Behind the baton: The making of IU’s Feature Twirler",
@@ -8,24 +8,26 @@ const data = {
         "By": {
             "name": "Ursula Stickelmaier",
             "email": "ustickel@iu.edu",
-            "twitter": "",
-            "pfp": ""
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/825f1e89-602c-4db3-b910-f682299c50d5.original.jpg",
+            "bio": "Ursula has worked at the IDS since 2024 for the arts desk."
         },
         
         "Photos by": [
             {
-                "name": "Ursula Stickelmaier",
-                "email": "",
-                "twitter": ""
+                "name": "Ursula Stickelmaier"
             },
             {
-                "name": "Trinity Mackenzie"
+                "name": "Trinity Mackenzie",
+                "email": "trinmack@iu.edu",
+                "pfp": "https://s3.amazonaws.com/snwceomedia/ids/f89a850a-e5a1-4322-bdff-6902ea751313.original.jpg",
+                "bio": "Trinity Mackenzie is a visuals editor on the IDS and has been on staff since 2024."
             }
         ],
 
         "Design and development by": {
             "name": "Owen Hamer",
             "email": "ohamer@iu.edu",
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/0f4f8fe6-a721-4b0f-87ca-47e697ebe1ac.original.png",
             "bio": "Owen has worked at the IDS since 2026 as a designer."
         }
         
