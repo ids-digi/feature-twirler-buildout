@@ -1,8 +1,8 @@
 const data = {
     "url": "behind-the-baton-iu-feature-twirler",
-    "slug": "IU's Feature Twirler",
+    "slug": "IU’s Feature Twirler",
     "headline": "Behind the baton: The making of IU’s Feature Twirler",
-    "title": "Behind the baton: The making of IU’s Feature Twirler",
+    "title": "IU's Feature Twirler",
     "pub_date": "TBD",
     "bylines": {
         "By": {
